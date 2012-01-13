@@ -4,7 +4,7 @@
 # Wachunga
 # Version 1.1
 # 2006-05-26
-# See https://github.com/Wachunga/rmxp-auto-font-install for details
+# See https://github.com/wachunga/rmxp-auto-font-install for details
 #------------------------------------------------------------------------------
 
 #------------------------------------------------------------------------------
