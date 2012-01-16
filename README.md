@@ -1,16 +1,16 @@
 Auto Font Install (v 1.1)
 ===
 
-A script for [RPG Maker XP](http://en.wikipedia.org/wiki/RPG_Maker_XP), which uses Ruby. Written years ago and posted on some now-defunct forums, but may still be useful to folks.
-
 Automatically installs one or more fonts so the player doesn't have to. It only does this the first time the game is run and the process is quite transparent (notification to the player is optional).
 
 The first time the player runs the game, the fonts are installed:
+
 ![Font install notification](http://s88387243.onlinehome.us/rmxp/auto_font_install/afo_notification.jpg)
 
 (The above notification window is optional.)
 
 The newly-installed font can be put to use immediately:
+
 ![Title screen with new font](http://s88387243.onlinehome.us/rmxp/auto_font_install/afo_title.jpg)
 
 
