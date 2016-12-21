@@ -5,13 +5,13 @@ Automatically installs one or more fonts so the player doesn't have to. It only 
 
 The first time the player runs the game, the fonts are installed:
 
-![Font install notification](http://s88387243.onlinehome.us/rmxp/auto_font_install/afo_notification.jpg)
+![Font install notification](afo_notification.jpg)
 
 (The above notification window is optional.)
 
 The newly-installed font can be put to use immediately:
 
-![Title screen with new font](http://s88387243.onlinehome.us/rmxp/auto_font_install/afo_title.jpg)
+![Title screen with new font](afo_title.jpg)
 
 
 Features
